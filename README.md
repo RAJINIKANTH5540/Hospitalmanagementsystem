@@ -1,4 +1,4 @@
-\# 🏥 Hospital Management System
+\# Hospital Management System
 
 
 
@@ -16,7 +16,7 @@ A Java-based Command Line Interface (CLI) application for managing hospital reco
 
 
 
-\## 📋 Features
+\## Features
 
 \* \*\*Patient Management:\*\* Register new patients and view existing records.
 
@@ -28,7 +28,7 @@ A Java-based Command Line Interface (CLI) application for managing hospital reco
 
 
 
-\## 🗄️ Database Setup
+\## Database Setup
 
 
 
@@ -90,7 +90,7 @@ CREATE TABLE IF NOT EXISTS appointments (
 
 
 
-\## 🚀 Compilation \& Execution
+\## Compilation \& Execution
 
 
 
